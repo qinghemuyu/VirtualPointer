@@ -1,0 +1,607 @@
+﻿  dllmain.cpp
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\dllmain.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\dllmain.cpp(24,5): error C2059: 语法错误:“}”
+  VirtualPointerCAPI.cpp
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VirtualPointerCAPI.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerCAPI.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerCAPI.h(127,53): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerCAPI.h(127,70): error C2143: 语法错误: 缺少“,”(在“*”的前面)
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstdint(20,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstdint(20,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\__msvc_sanitizer_annotate_container.hpp(102,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\__msvc_sanitizer_annotate_container.hpp(105,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\__msvc_sanitizer_annotate_container.hpp(120,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\__msvc_sanitizer_annotate_container.hpp(120,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(125,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt.h(125,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_new.h(17,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_new.h(17,14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_new_debug.h(16,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_new_debug.h(16,14): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\crtdbg.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\yvals.h(141,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\yvals.h(145,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\yvals.h(156,9): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\yvals.h(361,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\yvals.h(361,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_stdio_config.h(16,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_stdio_config.h(16,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_stdio_config.h(72,21): warning C4384: #pragma“detect_mismatch”只应用在全局范围上
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstdio.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstdio.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstdio(29,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstdio(29,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\errno.h(18,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\errno.h(18,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\vcruntime_string.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_memcpy_s.h(18,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_memcpy_s.h(18,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_memory.h(23,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_memory.h(23,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstring.h(20,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstring.h(20,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(23,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\string.h(23,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstring(20,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstring(20,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wconio.h(18,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wconio.h(18,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wctype.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wdirect.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wdirect.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wio.h(18,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wio.h(18,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wprocess.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wprocess.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstdlib.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wstdlib.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wtime.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_wtime.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\sys\stat.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\sys\stat.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\intrin0.inl.h(28,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\intrin0.inl.h(28,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\setjmp.h(24,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\setjmp.h(24,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\mmintrin.h(29,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\mmintrin.h(29,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(17,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\corecrt_malloc.h(17,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\malloc.h(19,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\malloc.h(19,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\xmmintrin.h(193,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\xmmintrin.h(193,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\emmintrin.h(65,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\emmintrin.h(65,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\pmmintrin.h(58,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\pmmintrin.h(58,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\tmmintrin.h(35,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\tmmintrin.h(35,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\smmintrin.h(83,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\smmintrin.h(83,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\nmmintrin.h(36,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\nmmintrin.h(36,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\wmmintrin.h(35,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\wmmintrin.h(35,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\immintrin.h(33,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\immintrin.h(33,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\zmmintrin.h(68,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\zmmintrin.h(68,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\immintrin.h(2541,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\immintrin.h(2541,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\ammintrin.h(51,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\ammintrin.h(51,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\intrin.h(55,8): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\intrin.h(55,12): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\wchar.h(39,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\wchar.h(39,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cwchar(22,19): error C2061: 语法错误: 标识符“mbstate_t”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cwchar(25,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\xtr1common(24,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\xtr1common(24,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\iosfwd(23,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\iosfwd(23,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stddef.h(18,1): error C2059: 语法错误:“字符串”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stddef.h(18,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstddef(27,1): error C2059: 语法错误:“namespace”
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstddef(27,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstddef(102,12): error C2039: "max_align_t": 不是 "std" 的成员
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\predefined C++ types (compiler internal)(357,11):
+      参见“std”的声明
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstddef(102,1): error C2873: “max_align_t”: 符号不能用在 using 声明中
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+F:\IDE\VC\Tools\MSVC\14.44.35207\include\cstddef(102,1): error C1003: 错误计数超过 100；正在停止编译
+  (编译源文件“src/VirtualPointerCAPI.cpp”)
+  
+  VPointerAdapter.cpp
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(38,12): error C2143: 语法错误: 缺少“}”(在“enum [tag]”的前面)
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(38,12): error C2059: 语法错误:“enum [tag]”
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(38,32): error C2059: 语法错误:“函数样式强制转换”
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(38,40): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(38,40): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(68,51): error C2614: “vptr::PointerEvent”: 非法的成员初始化:“timestamp”不是基或成员
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(68,65): error C2614: “vptr::PointerEvent”: 非法的成员初始化:“sequence”不是基或成员
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(80,23): error C3646: “orientation”: 未知重写说明符
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(80,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(82,65): error C2653: “DeviceOrientation”: 不是类或命名空间名称
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(82,84): error C2065: “Portrait”: 未声明的标识符
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(82,53): error C2614: “vptr::DeviceInfo”: 非法的成员初始化:“orientation”不是基或成员
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(108,48): error C2065: “DeviceOrientation”: 未声明的标识符
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(108,34): error C2974: “std::function”:“_Fty”的 模板 参数无效，应为类型
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(198,61): error C2955: “std::function”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(66,53): error C2955: “std::function”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(89,23): error C3646: “GetReceivedOrientation”: 未知重写说明符
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(89,45): error C2059: 语法错误:“(”
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(89,53): error C2238: 意外的标记位于“;”之前
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(113,19): warning C4251: “vptr::VPointerAdapter::config_”:“vptr::AdapterConfig”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(88,8):
+      参见“vptr::AdapterConfig”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(116,31): warning C4251: “vptr::VPointerAdapter::pointerState_”:“std::atomic<vptr::PointerState>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<vptr::PointerState>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(117,17): error C2065: “DeviceOrientation”: 未声明的标识符
+  (编译源文件“src/VPointerAdapter.cpp”)
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(117,10): error C2923: "std::atomic": "DeviceOrientation" 不是参数 "_Ty" 的有效 模板 类型参数
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(117,17):
+      参见“DeviceOrientation”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(117,36): error C2955: “std::atomic”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(117,36): warning C4251: “vptr::VPointerAdapter::receivedOrientation_”:“std::atomic”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(118,21): warning C4251: “vptr::VPointerAdapter::currentPosition_”:“vptr::PointerPosition”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(54,8):
+      参见“vptr::PointerPosition”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(119,16): warning C4251: “vptr::VPointerAdapter::deviceInfo_”:“vptr::DeviceInfo”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VirtualPointerInterface.h(74,8):
+      参见“vptr::DeviceInfo”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(120,23): warning C4251: “vptr::VPointerAdapter::isPressed_”:“std::atomic<bool>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<bool>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(121,23): warning C4251: “vptr::VPointerAdapter::isVisible_”:“std::atomic<bool>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<bool>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(128,23): warning C4251: “vptr::VPointerAdapter::recvRunning_”:“std::atomic<bool>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<bool>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(129,17): warning C4251: “vptr::VPointerAdapter::recvThread_”:“std::thread”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\thread(42,19):
+      参见“std::thread”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(132,25): error C2955: “std::function”: 使用 类 模板 需要 模板 参数列表
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(132,25): warning C4251: “vptr::VPointerAdapter::orientationCallback_”:“std::function”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(133,24): warning C4251: “vptr::VPointerAdapter::connectionCallback_”:“std::function<void (vptr::ConnectionState,const std::string &)>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function<void (vptr::ConnectionState,const std::string &)>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(134,19): warning C4251: “vptr::VPointerAdapter::errorCallback_”:“std::function<void (int32_t,const std::string &)>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function<void (int32_t,const std::string &)>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(141,23): warning C4251: “vptr::VPointerAdapter::initialized_”:“std::atomic<bool>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<bool>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(142,23): warning C4251: “vptr::VPointerAdapter::debugMode_”:“std::atomic<bool>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<bool>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(143,17): warning C4251: “vptr::VPointerAdapter::lastError_”:“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\xstring(541,7):
+      参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(144,27): warning C4251: “vptr::VPointerAdapter::sequence_”:“std::atomic<unsigned int>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\atomic(2131,8):
+      参见“std::atomic<unsigned int>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\include\VPointerAdapter.h(145,43): warning C4251: “vptr::VPointerAdapter::lastSendTime_”:“std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>”需要有 dll 接口以供“vptr::VPointerAdapter”的客户端使用
+  (编译源文件“src/VPointerAdapter.cpp”)
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\__msvc_chrono.hpp(200,11):
+      参见“std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(21,28): error C2653: “DeviceOrientation”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(21,47): error C2065: “Portrait”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(29,20): error C2512: “std::function”: 没有合适的默认构造函数可用
+      F:\IDE\VC\Tools\MSVC\14.44.35207\include\functional(1089,7):
+      参见“std::function”的声明
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(19,7): error C2614: “vptr::VPointerAdapter”: 非法的成员初始化:“connectionState_”不是基或成员
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(95,9): error C2065: “connectionState_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(95,46): error C2838: “Connected”: 成员声明中的限定名称非法
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(95,46): error C2065: “Connected”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(99,44): error C2838: “Connecting”: 成员声明中的限定名称非法
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(99,44): error C2065: “Connecting”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(105,48): error C2838: “Error”: 成员声明中的限定名称非法
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(105,48): error C2065: “Error”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(112,44): error C2838: “Connected”: 成员声明中的限定名称非法
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(112,44): error C2065: “Connected”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(128,5): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(128,26): error C2440: “初始化”: 无法从“initializer list”转换为“int”
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(128,26):
+      初始值设定项包含过多元素
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(130,5): error C2059: 语法错误:“if”
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(130,21): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(130,21): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(135,6): error C2653: “VPointerAdapter”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(136,10): error C3861: “IsDeviceOnline”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(137,9): error C2065: “lastError_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(141,5): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(142,5): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(144,20): error C2065: “isVisible_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(145,20): error C2065: “isPressed_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(146,48): error C2065: “receivedOrientation_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(148,23): error C3861: “BuildCommandString”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(150,10): error C3861: “SendPacket”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(154,5): error C2065: “sequence_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(155,5): error C2065: “lastSendTime_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(160,6): error C2653: “VPointerAdapter”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(160,42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(160,63): error C2143: 语法错误: 缺少“,”(在“&”的前面)
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(161,24): error C2065: “position”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(161,36): error C2065: “position”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(161,12): error C2660: “MovePointer”: 函数不接受 1 个参数
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(135,23):
+      参见“MovePointer”的声明
+      F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(161,12):
+      尝试匹配参数列表“()”时
+  
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(164,6): error C2653: “VPointerAdapter”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(165,10): error C3861: “IsDeviceOnline”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(166,9): error C2065: “lastError_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(170,5): error C2065: “isVisible_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,5): error C2065: “pointerState_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,21): error C2065: “isPressed_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,34): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,48): error C2065: “Pressed”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,58): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(171,72): error C2065: “Visible”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(173,20): error C2065: “isPressed_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(174,48): error C2065: “receivedOrientation_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(177,9): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(178,9): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(176,23): error C3861: “BuildCommandString”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(184,12): error C3861: “SendPacket”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(187,6): error C2653: “VPointerAdapter”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(188,10): error C3861: “IsDeviceOnline”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(189,9): error C2065: “lastError_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(193,5): error C2065: “isVisible_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(194,5): error C2065: “pointerState_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(194,21): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(194,35): error C2065: “Hidden”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(196,48): error C2065: “receivedOrientation_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(198,9): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(199,9): error C2065: “currentPosition_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(197,23): error C3861: “BuildCommandString”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(205,12): error C3861: “SendPacket”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(208,6): error C2653: “VPointerAdapter”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(209,10): error C3861: “IsDeviceOnline”: 找不到标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(210,9): error C2065: “lastError_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(214,5): error C2065: “isPressed_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(215,5): error C2065: “pointerState_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(215,31): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(215,45): error C2065: “Pressed”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(216,22): error C2065: “isVisible_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(216,35): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(216,49): error C2065: “Visible”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(216,59): error C2653: “PointerState”: 不是类或命名空间名称
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(216,73): error C2065: “Hidden”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(218,20): error C2065: “isVisible_”: 未声明的标识符
+F:\code\QInETouch-screen\vPointer\vpointer_dll\src\VPointerAdapter.cpp(218,20): error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...

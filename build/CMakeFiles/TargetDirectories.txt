@@ -1,0 +1,8 @@
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/CMakeFiles/VirtualPointerDLL.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/CMakeFiles/INSTALL.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/CMakeFiles/ALL_BUILD.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/CMakeFiles/ZERO_CHECK.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/examples/CMakeFiles/VPtrExample_C.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/examples/CMakeFiles/VPtrExample_CPP.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/examples/CMakeFiles/VPtrTestTool.dir
+F:/code/QInETouch-screen/vPointer/vpointer_dll/build/examples/CMakeFiles/INSTALL.dir

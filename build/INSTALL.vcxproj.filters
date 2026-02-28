@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\code\QInETouch-screen\vPointer\vpointer_dll\build\CMakeFiles\7ca4584953ee16a0949d431df46f72b7\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4152BD42-3526-355C-AA3E-273E68E895C9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
